@@ -695,7 +695,7 @@ const GroundingApp = () => {
               <LanguageSelector />
               <div style={styles.credits}>
                 <span>{t.credits}</span>
-                <a href="https://www.latela.com/percorso/10-crescita-personale/692-il-gioco-del-5-4-3-2-1" style={styles.creditsLink}>La Tela</a>
+                <a href="https://www.latela.com/percorso/10-crescita-personale/692-il-gioco-del-5-4-3-2-1" target="_blank" style={styles.creditsLink}>La Tela</a>
               </div>
             </div>
 
